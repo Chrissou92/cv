@@ -90,7 +90,7 @@ padding-top: 30px;
 
 }
 
-.faitchier {
+.menu-couleur {
   margin-left:0px!important
 }
 .bleu {
@@ -147,6 +147,10 @@ padding-top: 30px;
   background-color: rgba(198, 198, 199, 0.76);
   padding-top: 60px;
 
+}
+.adresse {
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 .information {
